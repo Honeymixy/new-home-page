@@ -162,6 +162,7 @@ ul a:hover{
     color: red;
     cursor: pointer;
  }
+ 
 @media screen and (max-width:500px) {
     body{
         border: 2px solid red;
